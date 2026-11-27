@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&height=60&lines=Bem-vindo+ao+meu+perfil!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=2&section=header" width="100%" />
+
+<br>
+
 <img height="320" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm52bXVsMXVoNWxncWczdnB2NXowYTAxOXE3dXVmZ3Uxd3FjamdpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMSXa7KFGx49aeeXhe/giphy.gif" />
 
 <br><br>
